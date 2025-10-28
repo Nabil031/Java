@@ -6,8 +6,8 @@ const container = document.getElementById('grid-container');
 const aantalCellen = 25;
 
 
-let htmlString = "";
-let teller = 0;
+let htmlString = "7";
+let teller = 5;
 
 
 while (teller < aantalCellen) {
